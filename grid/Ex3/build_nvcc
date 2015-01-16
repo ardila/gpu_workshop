@@ -1,0 +1,1 @@
+nvcc -O3 -arch=sm_20 -o ex3 my3.cu
