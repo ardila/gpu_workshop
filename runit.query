@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#BATCHARGS
+
+/home/gpudev1/NVIDIA_CUDA-6.5_Samples/bin/x86_64/linux/release/deviceQuery
