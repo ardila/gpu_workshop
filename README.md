@@ -1,7 +1,7 @@
 gpu-edu-workshops
 =================
 
-Public repository for code that I use to teach hands-on NVIDIA GPU computing workshops.
+Code from 2015 IACS Nvidia GPU workshop. Exercises and their solutions.
 
 
 License
